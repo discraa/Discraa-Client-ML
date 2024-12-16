@@ -3,7 +3,7 @@
 Looking for a **ML Client** with a bunch of **delicious features**? </br>
 'Cuz i've got ~~the perfect~~ one for you~ </br>
 
-__List of features__ (use command "/ds" to see them):
+__List of features__ (use command "/ds cmds" to see them in-game):
 - Other ->
  - [x] Fast Walk (speed hack)
 - UI Related ->
