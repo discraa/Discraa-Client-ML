@@ -8,6 +8,9 @@ __List of features__ (use command "/ds cmds" to see them in-game):
  - [x] Fast Walk (speed hack)
 - UI Related ->
  - [x] Show Player Position + Level (example: @wellington (245, 300))
+ - [ ] Pretty Progress Bars
+ - [ ] Progress Bar Percentages
+ - [ ] Icons In Skills Page
 - Chat ->
  - [x] Sort Players by Level
 
