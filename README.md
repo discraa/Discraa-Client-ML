@@ -6,10 +6,11 @@ Looking for a **ML Client** with a bunch of **delicious features**? </br>
 __List of features__ (use command "/ds cmds" to see them in-game):
 - Other ->
  - [x] Fast Walk (speed hack)
+ - [x] Teleporting
 - UI Related ->
  - [x] Show Player Position + Level (example: @wellington (245, 300))
- - [ ] Pretty Progress Bars
- - [ ] Progress Bar Percentages
+ - [x] Pretty Progress Bars + FPS & Ping
+ - [x] Progress Bar Percentages
  - [ ] Icons In Skills Page
 - Chat ->
  - [x] Sort Players by Level
